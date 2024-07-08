@@ -26,7 +26,7 @@ checkBtn.addEventListener('click', (e) =>
         {
             if(validateNumber(input.value))
                 {
-                    output.insertAdjacentHTML("beforeend",`<p>Valid US number: ${input.value}</p><hr>`);
+                    output.insertAdjacentHTML("afterbegin",`<p>Valid US number: ${input.value}</p><hr>`);
                 }
             else
             {
