@@ -18,4 +18,3 @@ _Open the HTML file in a browser to use the validator._
 **Technologies**
 
     • JavaScript
-    • 
